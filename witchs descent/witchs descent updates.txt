@@ -1,0 +1,30 @@
+[#majigesefa-1#]
+##Story
+You are a witch who has found themself in a dark dungeon overrun by goblins. You must escape the dungeon by finding keys to unlock the gates. Spellbooks have been scattered around and can be used to cast spells. The spells can eliminate goblins and light up the dungeon. 
+
+##Controls
+-**Arrow keys** to move
+-**X** to cast spells
+-**Z** for an alternate spell
+[img]/media/67113/witchs descent p8_0.png[/img]
+
+##Info
+This is a short, top-down, dungeon crawler game that is inspired by The Night of the Worm Slayer by xCoraNil which can be found here:
+https://www.lexaloffle.com/bbs/?tid=32628
+
+This is also my first time making music for a game. Any feedback is much appreciated
+
+##Updates
+###Update 1 
+-Updated music to have longer loops
+-Added a minimum length of time for lighting up the dungeon
+-Fixed a minor error on the tutorial screen
+
+###Update 2
+-Extended the minimum length of time for lighting up the dungeon
+-Added a torch that can be lit to light up the dungeon for a longer amount of time
+
+##Images
+[img]/media/67113/witchs descent p8_0.gif[/img]
+[img]/media/67113/witchs descent p8_1.gif[/img]
+[img]/media/67113/witchs descent p8_2.gif[/img]
